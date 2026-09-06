@@ -1,0 +1,7 @@
+# Language detection rules
+* text=auto
+*.rs linguist-detectable
+
+*.yml linguist-detectable=false
+
+*.html linguist-vendored
